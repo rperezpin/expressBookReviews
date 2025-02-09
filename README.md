@@ -35,8 +35,8 @@ This application is a REST API built with Node.js and Express that allows users 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/rperezpin/expressBookReviews.git
+   cd expressBookReviews/final_project
    ```
 2. Install dependencies:  
    ```bash
